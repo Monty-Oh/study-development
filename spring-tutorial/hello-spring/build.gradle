@@ -1,0 +1,32 @@
+plugins {
+	id 'org.springframework.boot' version '2.3.10.RELEASE'
+	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+	id 'java'
+}
+
+group = 'hello'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '11'
+
+// mavenCentral라는 페이지에서 가져온다는 뜻. 다른 페이지로 얼마든지 바꿀 수 있음.
+repositories {
+	mavenCentral()
+}
+
+// 2개만 써져있지만, 실제로는 땡겨오는 라이브러리가 상당히 많다.
+// 많은 이유는 package-lock.json처럼 의존하는 패키지들을 모두 가져온다.
+// Gradle 탭의 Dependencies를 보면 의존 패키지들의 상관관계를 볼 수 있다.
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	//implementation 'org.springframework.boot:spring-boot-starter-jdbc'
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	runtimeOnly 'com.h2database:h2'
+	testImplementation('org.springframework.boot:spring-boot-starter-test') {
+		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+	}
+}
+
+test {
+	useJUnitPlatform()
+}
