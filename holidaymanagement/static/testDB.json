@@ -1,0 +1,174 @@
+{
+  "holidayList": [
+    {
+      "begDt": "2021-04-07T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:40:55.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 0,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-07T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:38.000Z",
+      "holdyTpCd": "배송휴일",
+      "holdySn": 1,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-08T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:50.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 2,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-08T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:40:55.000Z",
+      "holdyTpCd": "배송휴일",
+      "holdySn": 3,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-09T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:38.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 4,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-09T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:50.000Z",
+      "holdyTpCd": "배송휴일",
+      "holdySn": 5,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-10T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:40:55.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 6,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-10T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:38.000Z",
+      "holdyTpCd": "배송휴일",
+      "holdySn": 7,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-11T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:50.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 8,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-11T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:38.000Z",
+      "holdyTpCd": "배송휴일",
+      "holdySn": 10,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-12T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:50.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 11,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-12T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:40:55.000Z",
+      "holdyTpCd": "배송휴일",
+      "holdySn": 12,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-13T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:38.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 13,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-13T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:50.000Z",
+      "holdyTpCd": "배송휴일",
+      "holdySn": 14,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-14T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:40:55.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 15,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-14T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:38.000Z",
+      "holdyTpCd": "배송휴일",
+      "holdySn": 16,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    },
+    {
+      "begDt": "2021-04-15T00:00:00.000Z",
+      "holdyNm": "정기휴일",
+      "createdBy": "monty",
+      "createdAt": "2021-04-13T06:41:50.000Z",
+      "holdyTpCd": "일반휴일",
+      "holdySn": 17,
+      "lastModifiedAt": "2021-04-13T06:40:55.000Z",
+      "lastModifiedBy": "monty"
+    }
+  ]
+}

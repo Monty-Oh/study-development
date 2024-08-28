@@ -1,0 +1,40 @@
+# database setting
+spring:
+  datasource:
+    # H2 Database
+#    url: jdbc:h2:tcp://localhost/~/plgrim/sample
+#    driver-class-name: org.h2.Driver
+#    username: sa
+
+    # Mysql Database
+    url:  jdbc:mysql://localhost:3306/dddsample?useSSL=false&useUnicode=true&allowPublicKeyRetrieval=true&serverTimezone=Asia/Seoul
+    username: monty
+    password: monty
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create
+
+
+#------------------------------------------------------------
+
+server:
+  servlet:
+    encoding:
+      charset: utf-8
+      force: true
+
+#------------------------------------------------------------
+token:
+  secret-key: this is secret key for sample project
+
+sns:
+  kakao:
+    kauth:
+      login-page:   https://kauth.kakao.com/oauth/authorize
+      get-token:    https://kauth.kakao.com/oauth/token
+    kapi:
+      rest-api:     03daa4391ed176013bd17b15f7ad39c1
+      redirect-url: http://localhost:8080/login/kakao/
+      access-token-info:  https://kapi.kakao.com/v1/user/access_token_info
+      user-info:  https://kapi.kakao.com/v2/user/me

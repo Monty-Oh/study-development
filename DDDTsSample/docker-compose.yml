@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  app:
+    build: .
+    ports:
+      - '3000:3000'
+    volumes:
+      - '.:/usr/src/app'            # Dockerfile 의 WORKDIR 와 맞추기
+      - '/usr/src/app/node_modules' # 핫 리로드 성능 개선
+
+# 백그라운드에서 실행
+# docker compose up -d
+# 백그라운드에서 실행된 컨테이너 모두 삭제
+# docker compose down

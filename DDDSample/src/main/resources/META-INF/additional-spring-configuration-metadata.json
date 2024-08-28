@@ -1,0 +1,39 @@
+{
+  "properties": [
+    {
+      "name": "token.secret-key",
+      "type": "java.lang.String",
+      "description": "Description for token.secret-key."
+    },
+    {
+      "name": "sns.kakao.kauth.login-page",
+      "type": "java.lang.String",
+      "description": "Description for sns.kakao.kauth.login-page."
+    },
+    {
+      "name": "sns.kakao.kauth.get-token",
+      "type": "java.lang.String",
+      "description": "Description for sns.kakao.kauth.get-token."
+    },
+    {
+      "name": "sns.kakao.kapi.rest-api",
+      "type": "java.lang.String",
+      "description": "Description for sns.kakao.kapi.rest-api."
+    },
+    {
+      "name": "sns.kakao.kapi.redirect-url",
+      "type": "java.lang.String",
+      "description": "Description for sns.kakao.kapi.redirect-url."
+    },
+    {
+      "name": "sns.kakao.kapi.access-token-info",
+      "type": "java.lang.String",
+      "description": "Description for sns.kakao.kapi.access-token-info."
+    },
+    {
+      "name": "sns.kakao.kapi.user-info",
+      "type": "java.lang.String",
+      "description": "Description for sns.kakao.kapi.user-info."
+    }
+  ]
+}
